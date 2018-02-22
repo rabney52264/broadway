@@ -32,3 +32,8 @@ footer {background-color: dimgray;}
     text-align: center;
     
 }
+
+ul {
+    
+    list-style: none;
+}
